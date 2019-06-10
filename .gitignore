@@ -1,0 +1,44 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+***/.vs
+***/packages
+***/bin
+***/obj
+*.user
+/Stable Reference
+***/Debug
+***/Release
+***/x64
+/Crapy/.vs/crappy/v15
+/Analytics/.ipynb_checkpoints
+***/.ipynb_checkpoints
+***/.msi
+/packages
+***/.idea
+***/__pycache__
+/Zappy/Legacy4
+/ZappyLegacy/Legacy
+/Analytics/ZappyServer/Files
+/Analytics/ZappyMLServer/.vs/ZappyMLServer/v15
+/Analytics/ZappyMLServer/packages
+/Demo/SettlementUpload/.vs/SettlementUpload
+/Demo/SettlementUpload/WPF_App/Documentation
+/src/.vs/Roro/v15
+/src/packages
+/Demo/rdc
+/WindowsFormsApp1
+/unpin.png
+/AutoUpdate/Zappy.exe
+/AutoUpdate/Update.zip
+/Demo/~$GAIN_Settlement.xlsx
+/UpgradeLog.htm
+/Demo/Excel2Chrome2Excel/~$LSEStock.xlsx
+/ZappyInstaller
+/Demo/POC/Capital/~$Capital file 2 - CRM contacts.xlsx
+/Demo/POC/Citadel/~$Book1.xlsx
+/IntegerAIWithINstaller.sln
+/AutoUpdate/UpdateConfig.xml
+/Trapy.Messages/FileIO/NewKeys/mltaskkey.pgp
+/Crapy/_site
